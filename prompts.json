@@ -1,0 +1,20 @@
+[
+    {
+        "id": "formal",
+        "name": "Ton formalny",
+        "description": "Zmień ton wypowiedzi na formalny",
+        "system_message": "Przetłumacz podany tekst na formalny, biznesowy język polski. Przykład: \n\n Ale dzisiaj padaka, nic mi się nie chce. \n\nPrawdiłowy poprawiony teskt:Dzisiaj mam totalny brak energii, nic mi się nie chce robić."
+    },
+    {
+        "id": "casual",
+        "name": "Ton nieformalny",
+        "description": "Zmień ton wypowiedzi na nieformalny",
+        "system_message": "Przetłumacz podany tekst na swobodny, potoczny język polski. Zachowaj znaczenie ale użyj codziennego języka."
+    },
+    {
+        "id": "simplify",
+        "name": "Uprość tekst",
+        "description": "Uprość tekst",
+        "system_message": "Uprość złożony tekst techniczny do podstawowego języka polskiego, zachowując kluczowe pojęcia."
+    }
+]
